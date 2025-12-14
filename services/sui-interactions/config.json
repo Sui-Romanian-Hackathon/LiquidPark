@@ -1,0 +1,23 @@
+{
+  "networks": {
+    "mainnet": {
+      "packageId": "",
+      "reputationRegistryId": "",
+      "zoneRegistryId": "",
+      "escrowConfigId": ""
+    },
+    "testnet": {
+      "packageId": "0xbd1645101fed2ce71bb9f03880d2ea9f94914667dac9f5842a60b862d692d43e",
+      "reputationRegistryId": "0x2f93e4aa4674b1f1e0b8323f8bd1cb2d9003a5298c66f2b92cf1427b31e328ba",
+      "zoneRegistryId": "0xd7861c29b4c71507797910d8203275938d5778dc9282427aec85fce0d8df2ce7",
+      "escrowConfigId": "0x724de5909220264b3192a016e656618393d4a7b342af76081de58036f601a6db"
+    },
+    "devnet": {
+      "packageId": "",
+      "reputationRegistryId": "",
+      "zoneRegistryId": "",
+      "escrowConfigId": ""
+    }
+  },
+  "defaultNetwork": "testnet"
+}
